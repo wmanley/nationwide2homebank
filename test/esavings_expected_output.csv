@@ -1,0 +1,11 @@
+05/03/10;;;;"Transfer from 0123/456 789 012. ";1500.00;
+12/03/10;;;;"Transfer to 0123/456 789 012. ";-5000.00;
+13/03/10;;;;"Interest added . Gross Interest 52.05 Tax Paid 0.00";52.05;
+21/08/10;;;;"Transfer to 0123/456 789 012. ";-52.05;
+26/11/10;;;;"Transfer from 0123/456 789 012. ";5000.00;
+17/01/11;;;;"Transfer from 0123/456 789 012.  Credited on 16 January 2011";4000.00;
+22/01/11;;;;"Transfer from 0123/456 789 012. ";1000.00;
+01/03/11;;;;"Transfer from 0123/456 789 012.  Credited on 28 February 2011";1987.65;
+11/03/11;;;;"Transfer to 0123/456 789 012.  Withdrawal date 28 February 2011";-14987.65;
+23/03/11;;;;"Transfer from 0123/456 789 012. ";3000.00;
+27/03/11;;;;"Interest added . Gross Interest 98.21 Tax Paid 0.00";98.21;
